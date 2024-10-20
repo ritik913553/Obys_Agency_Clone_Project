@@ -4,8 +4,7 @@
 A responsive clone of the [Obys Agency](https://www.obysagency.com) website built using HTML, CSS, JavaScript, GSAP, and Locomotive Scroll, showcasing modern design and smooth animations.
 
 ## 🌍 Live Demo
-👉 [Check out the live site!](https://RitikGupta.github.io/Obys_Agency_Clone_Project/
-)
+👉 [Check out the live site!](https://ritik913553.github.io/Obys_Agency_Clone_Project/)
 
 ## ⚙️ Tech Stack
 
